@@ -1,0 +1,15 @@
+[submodule "libs/AudioFile"]
+	path = libs/AudioFile
+	url = https://github.com/adamstark/AudioFile.git
+[submodule "libs/PluginBase"]
+	path = libs/PluginBase
+	url = https://github.com/KaixoCode/PluginBase.git
+[submodule "libs/rtmidi"]
+	path = libs/rtmidi
+	url = https://github.com/thestk/rtmidi.git
+[submodule "libs/Audijo"]
+	path = libs/Audijo
+	url = https://github.com/KaixoCode/Audijo.git
+[submodule "libs/GuiCode2"]
+	path = libs/GuiCode2
+	url = https://github.com/KaixoCode/GuiCode2.git

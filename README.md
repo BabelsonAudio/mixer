@@ -11,3 +11,4 @@ You can code your own effects as well! There is a Git repo called [EffectBase](h
 
  If you have any ideas or feedback you can find me on Discord: <code>@Kaixo#0001</code>
 # mixer
+# mixer
